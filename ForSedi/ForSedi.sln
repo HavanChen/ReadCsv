@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForSedi", "ForSedi\ForSedi.csproj", "{900A41D5-A849-4213-8721-2073E2CE5F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool_For_Windows", "Tool_For_Windows\Tool_For_Windows.csproj", "{A5410376-CC17-4834-8EB3-914665BD5ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900A41D5-A849-4213-8721-2073E2CE5F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900A41D5-A849-4213-8721-2073E2CE5F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900A41D5-A849-4213-8721-2073E2CE5F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900A41D5-A849-4213-8721-2073E2CE5F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5410376-CC17-4834-8EB3-914665BD5ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5410376-CC17-4834-8EB3-914665BD5ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5410376-CC17-4834-8EB3-914665BD5ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5410376-CC17-4834-8EB3-914665BD5ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACB17DB-6076-4621-9762-81F91A582C38}
+	EndGlobalSection
+EndGlobal
